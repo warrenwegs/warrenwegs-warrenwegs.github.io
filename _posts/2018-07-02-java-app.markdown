@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Java Robot App"
+date:   2018-06-01 07:17:03 +0000
+categories: java apps
+---
+
+## Task:
+Create a Windows app that can drive the UI of various other programs to generate report documents.
+
+# Stack:
+- Framework: JavaFX
+- Libraries: SikuliX, JSON Simple
